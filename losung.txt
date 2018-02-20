@@ -1,0 +1,1 @@
+Problem habe ich in Frontend. HTML5 date und time ist ganz schlecht. Ich hoffe dass ich keine potential Sql-Injection gemacht habe. Ich passte auf das. Vieleicht hat es von 3 bis 4 Studnen gekostet, aber es ist ganz Komplex auch mit "Edit"
